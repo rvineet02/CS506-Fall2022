@@ -1,3 +1,6 @@
 def draw_firestation():
-    print("fire station not found")
+    fs = """
+    
+    """
+    print("")
     return
