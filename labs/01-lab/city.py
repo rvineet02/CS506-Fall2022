@@ -1,3 +1,6 @@
+# Collaborator 1: Vineet Raju, vineetr@bu.edu
+# Collaborator 2: Dominic Maglione, dcmag@bu.edu
+
 from safety.safety import draw_safety
 from leisure.leisure import draw_leisure
 from outdoors.outdoors import draw_outdoors
